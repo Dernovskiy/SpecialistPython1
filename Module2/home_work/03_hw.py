@@ -28,4 +28,26 @@
 # 19 189.81 Rub.
 # 20 199.80 Rub.
 
-# TODO: your code here
+n = float(input('n?')) 
+
+
+print('# 1 ',n * 1,' Rub.')
+print('# 2 ',n * 2,' Rub.')
+print('# 3 ',n * 3,' Rub.')
+print('# 4 ',n * 4,' Rub.')
+print('# 5 ',n * 5,' Rub.')
+print('# 6 ',n * 6,' Rub.')
+print('# 7 ',n * 7,' Rub.')
+print('# 8 ',n * 8,' Rub.')
+print('# 9 ',n * 9,' Rub.')
+print('# 10 ',n * 10,' Rub.')
+print('# 11 ',n * 11,' Rub.')
+print('# 12 ',n * 12,' Rub.')
+print('# 13 ',n * 13,' Rub.')
+print('# 14 ',n * 14,' Rub.')
+print('# 15 ',n * 15,' Rub.')
+print('# 16 ',n * 16,' Rub.')
+print('# 17 ',n * 17,' Rub.')
+print('# 18 ',n * 18,' Rub.')
+print('# 19 ',n * 19,' Rub.')
+print('# 20 ',n * 20,' Rub.')
