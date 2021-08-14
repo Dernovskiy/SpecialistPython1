@@ -5,7 +5,18 @@
 # Исходные данные:
 fruits = ["яблоко", "банан", "киви", "арбуз"]
 
-# TODO: your code here
+fruits = ["яблоко", "банан", "киви", "арбуз"]
+i = 1
+l = 0
+max_len = 0
+for fruit in fruits[:]:
+ max1 = len(fruit)
+ if max1 > max_len:
+     max_len = max1
+for fruit in fruits[:]:
+ l = max_len - len(fruit)
+ print(str(i)+(" "*l)+str(fruit))
+ i += 1
 
 # Пример вывода:
 # 1. яблоко
